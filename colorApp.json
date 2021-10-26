@@ -1,0 +1,11 @@
+{
+    "appVision":"1.1.2",
+    "title":"发现新版本:v1.1.2",
+    "contents":[
+        "1.增加二维码数据分享",
+        "2.增加二维码数据导入",
+        "3.bug fix"
+    ],
+    "apkDownloadUrl":"http://www.weikun.info:8880/AppUpgradeConfigs/beside1.1.2.apk",
+    "force":false
+}
